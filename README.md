@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/Albertoocbs/Born2beroot">
-    <img src="https://github.com/Albertoocbs/Born2beroot/blob/main/born2beroot.png" width="80"/>
+    <img src="https://github.com/Albertoocbs/Born2beroot/blob/main/born2beroot.png" width="100"/>
   </a>
 </p>
 
