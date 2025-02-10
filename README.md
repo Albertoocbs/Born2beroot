@@ -12,7 +12,7 @@ The goal of this project is to create a virtual machine using "Virtual Box"
 
 **Status**
 
-Finished: 2025-01-12. Grade: 100/100.
+Finished: 2025-01-10. Grade: 100/100.
 
 -----
 
